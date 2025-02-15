@@ -29,7 +29,7 @@ Para ejecutar la aplicación en tu máquina local, necesitarás:
 1. **Clona este repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/LoginApp.git
+   git clone https://github.com/MiguelVelaG/Java_ant_Miguel.git
 Navega al directorio del proyecto:
 cd LoginApp
 Verifica que tienes Java instalado (JDK 8 o superior):
